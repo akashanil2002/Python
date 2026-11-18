@@ -1,0 +1,11 @@
+Hi how are you
+
+
+This is a sample text file created for testing and demonstration purposes.
+It contains multiple lines of plain text, which can be edited in any text editor.
+Features:
+- Plain text format (.txt)
+- UTF-8 encoding
+- No styling or formatting
+- Compatible with Windows, macOS, and Linux
+End of File
